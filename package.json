@@ -12,6 +12,8 @@
   "dependencies": {
     "@nuxt/image": "^1.9.0",
     "@primeuix/themes": "^1.0.0",
+    "baseline-browser-mapping": "^2.9.19",
+    "caniuse-lite": "^1.0.30001767",
     "material-symbols": "^0.28.2",
     "nuxt": "^3.15.4",
     "primeicons": "^7.0.0",

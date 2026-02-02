@@ -35,7 +35,7 @@ export default defineNuxtConfig({
   },
 
   // Nuxt CloundFlare - Nitro 
-  nitro: {
+   nitro: {
     preset: 'cloudflare-pages'
-  }
+  },
 })
