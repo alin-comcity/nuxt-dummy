@@ -1,0 +1,7 @@
+{
+  "name": "my-nuxt-site",             // তোমার সাইটের নাম
+  "compatibility_date": "2026-02-02",
+  "assets": {
+    "directory": "./dist"             // Nuxt build output
+  }
+}
