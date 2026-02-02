@@ -35,9 +35,7 @@ export default defineNuxtConfig({
   },
 
   // Nuxt CloundFlare - Nitro 
-   nitro: {
-    prerender: {
-      autoSubfolderIndex: false
-    }
+  nitro: {
+    preset: 'cloudflare-pages'
   }
 })
