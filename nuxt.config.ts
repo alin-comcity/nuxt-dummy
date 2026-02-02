@@ -32,5 +32,12 @@ export default defineNuxtConfig({
 
   routeRules: {
     '/demo/**': { ssr: false }
+  },
+
+  // Nuxt CloundFlare - Nitro 
+   nitro: {
+    prerender: {
+      autoSubfolderIndex: false
+    }
   }
 })
